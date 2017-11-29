@@ -1,0 +1,9 @@
+﻿  main.c
+c:\wordspace\c\1101\main.c(56): warning C4013: 'ex5' 未定義; 假設 extern 傳回整數
+c:\wordspace\c\1101\main.c(59): warning C4013: 'ex6' 未定義; 假設 extern 傳回整數
+c:\wordspace\c\1101\main.c(62): warning C4013: 'ex7' 未定義; 假設 extern 傳回整數
+c:\wordspace\c\1101\main.c(65): warning C4013: 'ex8' 未定義; 假設 extern 傳回整數
+c:\wordspace\c\1101\main.c(68): warning C4013: 'ex9' 未定義; 假設 extern 傳回整數
+c:\wordspace\c\1101\main.c(71): warning C4013: 'ex10' 未定義; 假設 extern 傳回整數
+  1101.vcxproj -> C:\wordspace\C\Debug\1101.exe
+  1101.vcxproj -> C:\wordspace\C\Debug\1101.pdb (Partial PDB)

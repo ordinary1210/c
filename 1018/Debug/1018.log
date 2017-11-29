@@ -1,0 +1,15 @@
+﻿  main.c
+c:\wordspace\c\1018\main.c(56): warning C4013: 'ex5' 未定義; 假設 extern 傳回整數
+c:\wordspace\c\1018\main.c(59): warning C4013: 'ex6' 未定義; 假設 extern 傳回整數
+c:\wordspace\c\1018\main.c(62): warning C4013: 'ex7' 未定義; 假設 extern 傳回整數
+c:\wordspace\c\1018\main.c(65): warning C4013: 'ex8' 未定義; 假設 extern 傳回整數
+c:\wordspace\c\1018\main.c(68): warning C4013: 'ex9' 未定義; 假設 extern 傳回整數
+c:\wordspace\c\1018\main.c(71): warning C4013: 'ex10' 未定義; 假設 extern 傳回整數
+  ex10.c
+c:\wordspace\c\1018\ex10.c(12): warning C4473: 'printf' : 傳遞給格式字串的引數不足
+  c:\wordspace\c\1018\ex10.c(12): note: 預留位置及其參數需要 2 個 variadic 引數，但卻提供了 1 個
+  c:\wordspace\c\1018\ex10.c(12): note: 缺少 variadic 引數 2 (其為格式字串 '%p' 所需)
+  正在產生程式碼...
+c:\wordspace\c\1018\ex10.c(16): warning C4716: 'ex10': 必須傳回值
+  1018.vcxproj -> C:\wordspace\C\Debug\1018.exe
+  1018.vcxproj -> C:\wordspace\C\Debug\1018.pdb (Partial PDB)

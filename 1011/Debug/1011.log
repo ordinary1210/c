@@ -1,0 +1,4 @@
+﻿  ex9.c
+c:\wordspace\c\1011\ex9.c(12): warning C4716: 'ex9': 必須傳回值
+  1011.vcxproj -> C:\wordspace\C\Debug\1011.exe
+  1011.vcxproj -> C:\wordspace\C\Debug\1011.pdb (Partial PDB)

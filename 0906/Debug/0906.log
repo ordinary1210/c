@@ -1,0 +1,13 @@
+﻿  main.c
+c:\wordspace\c\0906\main.c(59): warning C4013: 'ex3_5' 未定義; 假設 extern 傳回整數
+c:\wordspace\c\0906\main.c(62): warning C4013: 'ex3_6' 未定義; 假設 extern 傳回整數
+c:\wordspace\c\0906\main.c(65): warning C4013: 'ex3_7' 未定義; 假設 extern 傳回整數
+c:\wordspace\c\0906\main.c(68): warning C4013: 'ex3_8' 未定義; 假設 extern 傳回整數
+c:\wordspace\c\0906\main.c(71): warning C4013: 'HW3_1' 未定義; 假設 extern 傳回整數
+c:\wordspace\c\0906\main.c(74): warning C4013: 'HW3_2' 未定義; 假設 extern 傳回整數
+c:\wordspace\c\0906\main.c(77): warning C4013: 'HW3_3' 未定義; 假設 extern 傳回整數
+c:\wordspace\c\0906\main.c(80): warning C4013: 'HW3_4' 未定義; 假設 extern 傳回整數
+c:\wordspace\c\0906\main.c(83): warning C4013: 'HW3_5' 未定義; 假設 extern 傳回整數
+c:\wordspace\c\0906\main.c(86): warning C4013: 'HW3_6' 未定義; 假設 extern 傳回整數
+  0906.vcxproj -> C:\wordspace\C\Debug\0906.exe
+  0906.vcxproj -> C:\wordspace\C\Debug\0906.pdb (Partial PDB)

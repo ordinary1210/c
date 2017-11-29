@@ -1,0 +1,4 @@
+﻿  ex 8.c
+c:\wordspace\c\1115\ex 8.c(19): warning C4716: 'ex8': 必須傳回值
+  1115.vcxproj -> C:\wordspace\C\Debug\1115.exe
+  1115.vcxproj -> C:\wordspace\C\Debug\1115.pdb (Partial PDB)
